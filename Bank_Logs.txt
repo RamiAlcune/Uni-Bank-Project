@@ -1,0 +1,13 @@
+A110|Alice|2000|Withdraw|21:35 PM
+A122|Khaled|19000|Deposit|21:35 PM
+A115|Ahmad|200|Deposit|21:35 PM
+A128|Karim|1222|Deposit|21:35 PM
+A125|Farida|2000|Deposit|22:06 PM
+A125|Farida|4000|Deposit|22:07 PM
+A101|Ali|200|Deposit|22:34 PM
+A156|Rami|25000|Withdraw|22:34 PM
+A110|Alice|22121|Deposit|22:38 PM
+A119|Yousef|2222|Deposit|22:38 PM
+A101|Ali|300|Deposit|22:44 PM
+A101|Ali|1000|Withdraw|22:44 PM
+A101|Ali|1000|Withdraw|22:44 PM
